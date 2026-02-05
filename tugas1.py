@@ -2,9 +2,9 @@
 # TUGAS HANDS-ON MODUL 1
 # Studi Kasus: Sistem Stok Barang Kantin (Berbasis File .txt)
 #
-# Nama :
-# NIM :
-# Kelas :
+# Nama : Reyhan Moreno
+# NIM : J0403251007
+# Kelas : B2
 # ==========================================================
 
 # -------------------------------
@@ -205,3 +205,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
